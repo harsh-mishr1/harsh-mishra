@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @harsh-mishra
+- 👋 Hi, I’m @Harsh Mishra.
+- B.Tech 3rd year student..Computer science branch
 - 👀 I’m interested in coding,gaining skills that develops my personality,progamming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate with platforms and organisations based on my skills. 
